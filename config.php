@@ -41,7 +41,7 @@ class Config {
     const DB_HOST       = 'localhost';
     const DB_NAME       = 'appelt91_demo';
     const DB_USERNAME   = 'appelt91_demo';
-    const DB_PASSWORD   = 'demo';
+    const DB_PASSWORD   = 'appelt91_demo';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
